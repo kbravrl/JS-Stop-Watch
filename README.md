@@ -1,4 +1,4 @@
-# Stop-Watch
+# JS-Stop-Watch
 
 This is a simple Stop Watch application built using HTML, CSS, and JavaScript. It allows users to start, stop, and reset the timer.
 
