@@ -8,5 +8,5 @@ This is a simple Stop Watch application built using HTML, CSS, and JavaScript. I
 - **Stop Timer:** Pause the timer at the current time.
 - **Reset Timer:** Reset the timer back to zero.
 
-## Screenshot
-![screenshot](https://github.com/user-attachments/assets/a184a0ea-5775-4a90-9c59-4aa203359d9c)
+[stop-watch.webm](https://github.com/user-attachments/assets/0afc5a64-fbc9-41ae-a838-5269e05a009e)
+
